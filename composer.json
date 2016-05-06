@@ -1,0 +1,14 @@
+{
+    "name": "katsuo-ryuu/kryuu-cool-console",
+    "description": "An extension of the console modules in ZF2, this handles boxes grid views and more.",
+    "license": "Ryuu Technology Free License",
+    "keywords": [
+        "zf2",
+        "Console"
+    ],
+    "homepage": "https://github.com/KatsuoRyuu/KryuuCoolConsole",
+    "require": {
+        "php": "^5.5 || ^7.0",
+        "zendframework/zendframework": "^2.5"
+    }
+}
