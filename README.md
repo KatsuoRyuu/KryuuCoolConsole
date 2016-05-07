@@ -31,7 +31,7 @@ Creating a simple view
 **NOTICE** The system currently only have one view type "grid"
 
     
-    ```<?php
+    <?php
         
         // Create a new view
         $view = new Grid();
@@ -56,4 +56,4 @@ Creating a simple view
         $view->addChild($box);
         // show the actual view in the terminal
         $view->show();
-    ```
+
