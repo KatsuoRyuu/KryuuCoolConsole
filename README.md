@@ -30,8 +30,8 @@ Creating a simple view
 
 **NOTICE** The system currently only have one view type "grid"
 
-    ```
-    <?php
+    
+    ```<?php
         
         // Create a new view
         $view = new Grid();
